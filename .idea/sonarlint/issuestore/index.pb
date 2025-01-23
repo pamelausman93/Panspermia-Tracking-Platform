@@ -7,3 +7,5 @@ U
 %contracts/planetary-colonization.clar,5/f/5f23d23c5cd3788e61bafb19e28ad7dadeda66a1
 V
 &contracts/evolutionary-divergence.clar,7/1/71e6547881ad83356a4dd8f0280b0a7a6cabfcf3
+R
+"contracts/panspermia-life-nft.clar,e/e/eec240f8036ceb6dc02b35ef31124f42b5b84343

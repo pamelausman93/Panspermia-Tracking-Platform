@@ -10,6 +10,11 @@ path = 'contracts/evolutionary-divergence.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.panspermia-life-nft]
+path = 'contracts/panspermia-life-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.planetary-colonization]
 path = 'contracts/planetary-colonization.clar'
 clarity_version = 2
