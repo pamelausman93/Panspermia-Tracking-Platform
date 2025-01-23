@@ -9,3 +9,5 @@ V
 &contracts/evolutionary-divergence.clar,7/1/71e6547881ad83356a4dd8f0280b0a7a6cabfcf3
 R
 "contracts/panspermia-life-nft.clar,e/e/eec240f8036ceb6dc02b35ef31124f42b5b84343
+W
+'contracts/astrobiological-modeling.clar,7/f/7f276360f3bbbc32b94c54815cd7e8b33cf578fd
