@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.evolutionary-divergence]
+path = 'contracts/evolutionary-divergence.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.planetary-colonization]
 path = 'contracts/planetary-colonization.clar'
 clarity_version = 2
