@@ -11,3 +11,13 @@ R
 "contracts/panspermia-life-nft.clar,e/e/eec240f8036ceb6dc02b35ef31124f42b5b84343
 W
 'contracts/astrobiological-modeling.clar,7/f/7f276360f3bbbc32b94c54815cd7e8b33cf578fd
+V
+&tests/astrobiological-modeling.test.ts,0/5/051690e73530e897200579175109698fa10e1bbb
+U
+%tests/evolutionary-divergence.test.ts,f/0/f026a9087d0efb921e1a6fda9a0fbacc6b9f137a
+Q
+!tests/panspermia-life-nft.test.ts,e/f/efd96cc3b5d44fd1a88f1716fa3f7fa51ee5ab12
+T
+$tests/planetary-colonization.test.ts,f/4/f44edd9c7b1cd8d3567a9f9b6c668d47e16340d9
+O
+tests/seed-distribution.test.ts,6/1/6154e4d9aadaaf474c7ddc8831cf26c2023ccf3f
